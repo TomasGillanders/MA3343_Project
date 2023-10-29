@@ -1,2 +1,4 @@
-# MA3343_Project
-MA3343: Groups - Collaborative poster project completed as part of the course assessment.
+# MA3343: Groups Project
+## A Teacher’s Contribution to Group Theory - Sylow’s First Theorem
+
+
